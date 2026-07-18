@@ -1,7 +1,7 @@
 {
-  "id": "colony_upkeep_rankings",
+  "id": "bora_colony_upkeep_rankings",
   "name": "Colony Upkeep Rankings",
-  "author": "Colony Upkeep Rankings contributors",
+  "author": "Bora Kaygin and OpenAI Codex",
   "utility": true,
   "version": "1.0.4",
   "description": "Adds a persistent Intel entry that ranks every structure on player-owned colonies by current monthly upkeep and estimates Beta-core savings.",
