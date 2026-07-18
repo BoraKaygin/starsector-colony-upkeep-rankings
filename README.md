@@ -14,8 +14,8 @@ Colony Upkeep Rankings is a utility mod for **Starsector 0.98a-RC8**. It adds a 
 
 ## Installation
 
-1. Download the latest release.
-2. Extract the `Colony Upkeep Rankings` folder into the Starsector `mods` directory.
+1. Download this repository as a ZIP, or clone it with Git.
+2. Place the repository folder in the Starsector `mods` directory and rename it to `Colony Upkeep Rankings` if desired.
 3. Enable **Colony Upkeep Rankings** in the launcher.
 4. Load a save and open **Intel → Major Events** or **Intel → Colonies**.
 
