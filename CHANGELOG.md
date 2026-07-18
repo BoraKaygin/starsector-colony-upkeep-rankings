@@ -2,7 +2,7 @@
 
 ## 1.0.4
 
-- Prepared the project for public release with generic package and mod identifiers.
+- Prepared the project for public release.
 - Added source-build verification and repository documentation.
 
 ## 1.0.3
